@@ -1,5 +1,5 @@
 Hi, I’m Hazart
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Flutter and React
 - 📫 Discord: Hazart#9173
 
 <!---
